@@ -1,0 +1,8 @@
+Compilação:
+ocamlc str.cma -o eFolioA.exe eFolioA.ml
+
+Execução:
+eFolioA.exe
+
+Ficheiro com os dados:
+dados.txt
